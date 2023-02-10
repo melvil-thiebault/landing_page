@@ -8,6 +8,11 @@
     color: white;
      border-radius:20px;
 }
+.header-nav a{
+  text-decoration: none;
+  color: white ;
+  font-family:tw cen mt;
+}
 
 .header-menu {
   display: flex;
